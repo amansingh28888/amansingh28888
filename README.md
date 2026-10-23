@@ -70,7 +70,7 @@ An AI-assisted project for monitoring water quality and communicating water-safe
 
 <div align="center">
 
-<img width="100%" alt="Blue animated contribution snake" src="https://raw.githubusercontent.com/amansingh28888/amansingh28888/output/blue-contribution-snake.svg" />
+<img width="100%" alt="Animated dark-blue contribution snake" src="https://raw.githubusercontent.com/amansingh28888/amansingh28888/output/blue-contribution-snake.svg?v=20261023" />
 
 <!-- ============ CONNECT ============ -->
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:3B82F6,100:60A5FA" />
