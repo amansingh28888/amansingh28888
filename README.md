@@ -46,7 +46,7 @@ I am an MBA student in Business Analytics at Chandigarh University, building pra
 
 <div align="center">
   <a href="https://github.com/amansingh28888">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=amansingh28888&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&theme=dracula&rank_icon=github&cache_seconds=1800" alt="GitHub statistics" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amansingh28888&theme=dracula" alt="GitHub statistics" />
   </a>
   <a href="https://github.com/amansingh28888">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh28888&layout=compact&hide_border=true&theme=dracula&langs_count=6&cache_seconds=1800" alt="Most used languages" />
